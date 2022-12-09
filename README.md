@@ -6,10 +6,12 @@ O projeto teve como objetivo consolidar conhecimentos sobre Node.js, Express, Se
 
 Inicialmente o projeto se iniciou a partir de uma API de blogs feita por mim como tarefa de aprendizado do curso da [Trybe](https://www.betrybe.com/). Após finalizada, comecei a desenvolver o front-end em pararelo a implementações e reajustes feitos na API conforme a necessidade.
 
-
 ⚠️ MySQL deve estar instalado para o funcionamento da API.
 
 ⚠️ Usa localStorage do browser para autenticação de usuário.
+
+## DEMO 
+[the-word-frontend-production.up.railway.app](https://the-word-frontend-production.up.railway.app)
 
 <details>
 <summary><strong>Quick start</strong></summary>
