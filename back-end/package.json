@@ -1,5 +1,5 @@
 {
-  "name": "blogs-api",
+  "name": "the-word-backend",
   "version": "0.1.0",
   "engines": {
     "node": ">=16.0.0"
