@@ -1,0 +1,3 @@
+**/*.test.js 
+src/index.js
+src/mock
