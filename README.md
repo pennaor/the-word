@@ -1,20 +1,22 @@
 # The Word Project
 
-A aplicação se trata de um website de blog que provê ao usuário autênticado o serviço de criação, leitura, atualização e remoção (CRUD) de posts, assim como busca-los por termo ou autor.
+A aplicação se trata de um website de blog que provê ao usuário autenticado o serviço de criação, leitura, atualização e remoção (CRUD) de posts, assim como busca-los por termo ou autor.
 
 O projeto teve como objetivo consolidar conhecimentos sobre Node.js, Express, Sequelize, sendo estruturada sob os princípios REST e arquitetura MSC (Model, Service, Controller).
 
 Inicialmente o projeto se iniciou a partir de uma API de blogs feita por mim como tarefa de aprendizado do curso da [Trybe](https://www.betrybe.com/). Após finalizada, comecei a desenvolver o front-end em pararelo a implementações e reajustes feitos na API conforme a necessidade.
 
-
 ⚠️ MySQL deve estar instalado para o funcionamento da API.
 
 ⚠️ Usa localStorage do browser para autenticação de usuário.
 
+## DEMO 
+[the-word-frontend-production.up.railway.app](https://the-word-frontend-production.up.railway.app)
+
 <details>
 <summary><strong>Quick start</strong></summary>
 
-1. Clone o repositório e mude para a pasta back-end e instale as depedências:
+1. Clone o repositório e mude para a pasta back-end e instale as dependências:
 
 ```bash
 git clone git@github.com:pennaor/the-word.git
@@ -30,7 +32,7 @@ npm install
 
 5. Inicie a API com `npm start`.
 
-6. Mude para o diretório do front-end e instale as depedências:
+6. Mude para o diretório do front-end e instale as dependências:
 
 ```bash
 cd ../front-end
